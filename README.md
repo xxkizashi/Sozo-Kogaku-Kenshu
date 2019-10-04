@@ -18,19 +18,19 @@ Matlab Simulink
 
 ## Usage
 - Simulink model
-![Simulink](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/problem.jpg "simulink")
+![Simulink](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/simulink_model.png "simulink")
 - Result
-![Result](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/problem.jpg "result")
+![Result](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/result.png "result")
 
 ## Installation
     $ git clone https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu.git
 
 ## Equation of motion
-'''math
+$$
 m\ddot{x} = -k\dot{x}^{2}\\
 m\ddot{y} = -k\dot{y}^{2} - mg
-'''
+$$
 ## Conservation of energy
-'''math
+$$
 \frac{1}{2}k x_{k0}^{2} - mg |x_{k0}| \sin \theta = \frac{1}{2} m v_{0}^{2}
-'''
+$$
