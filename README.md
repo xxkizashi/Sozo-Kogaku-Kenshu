@@ -18,9 +18,9 @@ Matlab Simulink
 
 ## Usage
 - Simulink model
-![Simulink](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/simulink_model.PNG "simulink")
+![Simulink](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/picture/simulink_model.PNG "simulink")
 - Result
-![Result](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/result.PNG "result")
+![Result](https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu/blob/master/picture/result.PNG "result")
 
 ## Installation
     $ git clone https://github.com/xxkizashi/UNIV_Sozo-Kogaku-Kenshu.git
