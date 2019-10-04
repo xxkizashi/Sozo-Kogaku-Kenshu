@@ -1,6 +1,6 @@
 # Sozo-Kogaku-Kenshu
 Simulation for flying object  
-創造工学研修の授業で役立つかも？
+創造工学研修で役立つかも？
 
 ## Rules
 - 飛翔体を作製し，飛距離を競う．
